@@ -1,0 +1,38 @@
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.body{
+	width:30%;
+	border:2px solid gray;
+	margin:80px auto 10px;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: sans-serif;
+	font-size:20px;
+}
+.body input{
+	font-size: 18px;
+}
+h1.head{
+	text-align: center;
+	color:#b1c2fc;
+}
+.form{
+	text-align:center;
+	margin-top:30px;
+}
+#gender{
+	float:left;
+	padding-left:50px;
+}
+.submit{
+	border-radius:4px;
+}
+input .submit{
+	padding:10px;
+}
+
+
